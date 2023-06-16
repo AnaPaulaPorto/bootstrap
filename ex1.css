@@ -1,0 +1,46 @@
+h1, h5{
+    text-align: center;
+    text-align:center;
+
+}
+
+h1{
+    color: black;
+}
+
+p{
+    color: black;
+}
+
+h3{
+    color: black;
+}
+
+h4{
+    color: black;
+}
+
+h2{
+    color: black;
+}
+
+p{
+    color: black;
+      
+}
+
+figure {
+    
+    text-align: center; 
+}
+body{
+    
+    background-color: rgb(31, 194, 194); 
+}
+.coluna{
+    columns: 2;
+    columns: rule color #6950d9;
+    column-rule: solid 1px;
+}
+
+
